@@ -264,7 +264,7 @@ def plot_passes(
             marker='o',
             color='black',
             markerfacecolor='black',
-            markersize=8,
+            markersize=5,
             label='Startpoint',
             linestyle='None'
         ),
@@ -274,7 +274,7 @@ def plot_passes(
             marker='x',
             color='black',
             markerfacecolor='black',
-            markersize=8,
+            markersize=5,
             label='Endpoint',
             linestyle='None'
         )
